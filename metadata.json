@@ -1,0 +1,9 @@
+{
+  "name": "Chatter",
+  "description": "A production-grade messaging platform with AI-powered transcription and video analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
